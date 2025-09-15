@@ -39,9 +39,9 @@ function toggleFAQ(btn) {
   content.style.display = isOpen ? 'none' : 'block';
 }
 const images = [
-  "C:\\Users\\julio.braga\\Downloads\\sites-by-braga-estruturado\\img\\img2.jpg",
-  "C:\\Users\\julio.braga\\Downloads\\sites-by-braga-estruturado\\img\\img3.jpg",
-  "C:\\Users\\julio.braga\\Downloads\\sites-by-braga-estruturado\\img\\img4.jpg",
+  "img\\img2.jpg",
+  "img\\img3.jpg",
+  "img\\img4.jpg",
 ];
 let current = 0;
 
